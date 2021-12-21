@@ -1,0 +1,4 @@
+telethon
+aiocron
+asyncio
+pytz
